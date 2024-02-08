@@ -1,4 +1,4 @@
-###Greetings! 👋
+### Greetings! 👋
 
 My name is Iryna and I am enthusiastic and motivated 👶front-end developer with a passion for creating responsive and user-friendly web applications.
 
