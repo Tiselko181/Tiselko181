@@ -31,7 +31,7 @@ My name is Iryna and I am enthusiastic and motivated 👶front-end developer wit
 
 
 
-Some of my pet-rojects:
+Some of my pet-rojects: <br>
 💡https://tiselko181.github.io/course-5/students/tiselko_iryna/exam_js-module/build/# <br>
 Description: Simple responsive landing page with js (form-validation, swiper, map and slow scrolling) <br>
 
