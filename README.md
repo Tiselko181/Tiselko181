@@ -29,8 +29,9 @@ My name is Iryna and I am enthusiastic and motivated 👶front-end developer wit
 ![Static Badge](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white&labelColor=CF4647&color=white)
 ![Static Badge](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=646CFF&color=white)
 
-
-
+<br>
+<br>
+<br>
 Some of my pet-rojects: <br>
 💡https://tiselko181.github.io/course-5/students/tiselko_iryna/exam_js-module/build/# <br>
 Description: Simple responsive landing page with js (form-validation, swiper, map and slow scrolling) <br>
